@@ -112,7 +112,7 @@ main {
 }
 
 #email {
-  padding: 0.25rem 0.5rem;
+  padding: 0.4rem 0.8rem;
   width: 15rem;
   margin: 0 auto;
   border-radius: 20px;
@@ -121,10 +121,12 @@ main {
 #submit {
   width: min-content;
   margin: 0 auto;
-  padding: 0.25rem 0.5rem;
+  padding: 0.4rem 0.8rem;
   background-color: #ff7600;
   color: #000;
   border-radius: 20px;
+  font-weight: bold;
+  text-align: center;
 }
 
 /* FEATURES */
@@ -204,10 +206,11 @@ main {
 }
 
 .item-listing button {
-  padding: 0.5rem;
+  padding: 0.5em 0.8rem;
   background-color: #ff7600;
   color: #000;
-  border-radius: 10px;
+  border-radius: 20px;
+  font-weight: bold;
 }
 
 /* FOOTER */
@@ -222,7 +225,7 @@ footer {
   font-weight: bold;
   gap: 0.5rem;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1.2rem;
   position: relative;
   text-align: right;
   width: 80%;
